@@ -1,0 +1,24 @@
+{
+  "packageId": "com.wagetracker.app",
+  "name": "工资累积器",
+  "shortName": "工资累积器",
+  "startUrl": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "themeColor": "#0b1020",
+  "backgroundColor": "#0b1020",
+  "iconUrl": "./icon-512.png",
+  "splashUrl": "./icon-512.png",
+  "splashBackgroundColor": "#0b1020",
+  "manifestUrl": "./manifest.json",
+  "signingKeyInfo": {
+    "path": "./android-keystore.jks",
+    "alias": "wagetracker"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "hostName": "localhost",
+  "enableNotifications": false,
+  "enableAddToHomescreen": true
+}
