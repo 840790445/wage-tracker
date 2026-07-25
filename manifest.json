@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "工资累积器",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "累积器",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "840790445",
+  "description": "用于计算工作时间工资的工具"
+}
